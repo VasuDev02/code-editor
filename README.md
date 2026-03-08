@@ -32,7 +32,6 @@ The application is deployed using **GitHub Pages** and runs completely on the cl
 ---
 
 ## 📂 Project Structure
-## 📂 Project Structure
 
 ```
 code-editor-gh-pages/
@@ -57,6 +56,6 @@ code-editor-gh-pages/
 
 ## The application will run on:
 ```
-http://localhost:3000
+https://vasudev02.github.io/code-editor
 
 ```
